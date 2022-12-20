@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define NUM_CADASTROS 1
+#define NUM_CADASTROS 5
 
 typedef struct 
 {
